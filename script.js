@@ -1,14 +1,12 @@
 // 1. ANIMASI PERGANTIAN TEXT ROLE (Efek Fade Seperti Video)
 const roles = [
-    "Teknik Elektronika Student", 
-    "Humas HMT Elektro", 
+    "Electronics Engineering Student", 
+    "Humas HM Elektro", 
     "Public Relations GI BEI"
 ];
 
 const subRoles = [
-    "Hardware Engineer",
-    "PR Specialist",
-    "Financial Enthusiast"
+    "Electronics Engineering",
 ];
 
 let index = 0;
